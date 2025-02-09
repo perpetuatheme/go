@@ -5,7 +5,7 @@ package perpetua
 import (
 	"image/color"
 
-	internalcolor "github.com/perpetuatheme/perpetua/internal/color"
+	internalcolor "github.com/perpetuatheme/go/internal/color"
 )
 
 type dark struct{}

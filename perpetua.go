@@ -4,7 +4,7 @@ import (
 	"image/color"
 	"strings"
 
-	internalcolor "github.com/perpetuatheme/perpetua/internal/color"
+	internalcolor "github.com/perpetuatheme/go/internal/color"
 )
 
 //go:generate go run generate.go
